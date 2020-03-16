@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="musiclibrary" size="5.000000 6.666667" />
+    <ImageTarget name="javacity" size="5.000000 6.666667" />
+    <ImageTarget name="dropoff" size="5.000000 3.750000" />
+    <ImageTarget name="returnbook" size="5.000000 3.750000" />
+    <ImageTarget name="colorprinter1" size="5.000000 6.666667" />
+    <ImageTarget name="printerdirection" size="5.000000 6.666667" />
+  </Tracking>
+</QCARConfig>
